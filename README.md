@@ -6,8 +6,6 @@ A Kimi CLI skill that guides AI agents through a rigorous, situation-aware softw
 
 Most AI "software engineering" skills jump straight to coding. They treat the agent like an eager junior dev who starts typing the moment they get an assignment. This skill is different.
 
-Inspired by ["Stop Executing, Start Leading: How to Make Your AI Agent Situation-Aware"](https://nimbusnova.substack.com/p/stop-executing-start-leading-how), this skill teaches agents to:
-
 - **Assess before acting** — Understand the real problem, constraints, and success metrics before writing a single line of code
 - **Trade off, don't default** — Present options with context-aware tradeoffs rather than blindly picking the "best" technology
 - **Validate, don't just ship** — Define "done" by user outcomes and measurable impact, not just merged PRs
